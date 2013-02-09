@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/PointAdjust" >
+        <file>pointadjust.png</file>
+    </qresource>
+</RCC>
